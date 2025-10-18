@@ -1,4 +1,1 @@
-# EMMA-MK2
-this second version explores the implementation of using Robotic operating software (ROS) and virtual simulators enviroments such as Rviz and Gazebo. 
-the project is divided in three phases (Slam, Computer Vision  and object manipulation).
-None  of these codes works without their libraries and launchers, these codes are just for demonstration 
+EMMA-MK2 (Enhanced Modular Mobile Assistant – Mark II) represents the second iteration of the EMMA project, exploring the integration of ROS (Robot Operating System) with virtual simulation environments such as Gazebo and RViz. This version focuses on three key phases — SLAM, Computer Vision, and Object Manipulation — to demonstrate core robotic concepts like mapping, perception, and motion control. The included Python and C++ scripts are purely demonstrative, showing how to publish, subscribe, and interact with ROS topics to monitor or control simulated systems. All processes run within the ROS ecosystem through its corresponding launch and configuration files (not included here), and the code alone will not execute without the required libraries, packages, and simulation setup.
